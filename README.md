@@ -23,6 +23,10 @@ This is the final version of the Tic-Tac-Toe game with:
 
 Open a terminal in this folder (`final/`) and run:
 
+if you are on Linux
+
 ```bash
 chmod +x run.sh
 ./run.sh
+
+if you are on Windows use the run.bat
